@@ -8,3 +8,6 @@ Steps to use resporitory
   3. Selection models
   4. Training and testing of the models
   5. Finally matrics AUC, precision, recall and plot of ROC-AUC
+This resporitory consists of two jupyter files
+1. One for Feture selection methods and selected features are feed to decision tree, randomforest etc., (Final_Features_Selection_methods_Tain_test_different_dataset)
+2. Another file for feature selection and selected models are XGBoost, CatBoot etc., (Final_NEXAUS_Classifier)
